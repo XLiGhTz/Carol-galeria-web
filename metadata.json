@@ -1,0 +1,5 @@
+{
+  "name": "Photo Gallery Platform",
+  "description": "A SaaS platform for photographers to showcase multiple client galleries. Clients can log in to their specific gallery to view, like, and select photos for editing.",
+  "requestFramePermissions": []
+}
